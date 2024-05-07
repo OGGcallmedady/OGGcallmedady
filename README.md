@@ -8,6 +8,6 @@
 
 🚀 Outside of coding, you can find me exploring the latest tech trends, gaming with friends, or diving into a good book. I believe in the power of collaboration and open-source, so feel free to reach out for collaborations or just to say hi!
 
-📫 Let's connect! Feel free to drop me a message here on GitHub or connect with me on [LinkedIn](link-to-your-LinkedIn-profile) to discuss projects, share ideas, or simply geek out about code.
+📫 Let's connect! Feel free to drop me a message here on GitHub to discuss projects, share ideas, or simply talk about code.
 
 Happy coding! 💻✨
